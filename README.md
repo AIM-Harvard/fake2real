@@ -11,11 +11,6 @@ This repository hosts the code and resources for the research project "Improving
 ### In this repo
 - We showed detailed Prompts for Synthetic Data Generation for all our tasks among the 4 .py files
 
-## Acknowledgments
-- Woods Foundation, NIH, and other funders for their financial support.
-- Dr. Danielle S. Bitterman for her role as the corresponding author and contributor.
-- [More Acknowledgments](ACKNOWLEDGMENTS.md)
-
 ## Contact
 For any queries, please reach out to Dr. Danielle S. Bitterman at dbitterman@bwh.harvard.edu.
 
